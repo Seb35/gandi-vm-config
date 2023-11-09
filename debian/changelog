@@ -1,3 +1,13 @@
+gandi-hosting-vm2 (2.41+nmu1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+
+  [Seb35]
+  * Upgrade to Python3
+  * Remove already ignored udev rules
+
+ -- Seb35 <seb35@seb35.fr>  Thu, 09 Nov 2023 13:15:17 +0100
+
 gandi-hosting-vm2 (2.41) unstable; urgency=medium
 
   * Decompress ZSTD kernels
