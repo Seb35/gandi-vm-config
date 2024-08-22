@@ -1,3 +1,12 @@
+gandi-hosting-vm2 (2.43+nmu1) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+
+  [Seb35]
+  * Remove already ignored udev rules
+
+ -- Seb35 <seb35@seb35.fr>  Thu, 22 Aug 2024 15:05:17 +0100
+
 gandi-hosting-vm2 (2.43) unstable; urgency=medium
 
   * Fix utf-8 decoding
